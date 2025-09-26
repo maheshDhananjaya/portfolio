@@ -149,7 +149,7 @@ const Portfolio = () => {
             <div className="w-32 h-32 mx-auto mb-6 bg-gradient-to-r from-blue-500 to-purple-600 rounded-full flex items-center justify-center text-4xl font-bold">
               MK
             </div>
-            <h1 className="text-4xl md:text-6xl leading-none md:leading-snug font-bold mb-4 bg-gradient-to-r from-blue-400 via-purple-400 to-pink-400 bg-clip-text text-transparent">
+            <h1 className="text-4xl md:text-6xl leading-tight md:leading-snug font-bold mb-4 bg-gradient-to-r from-blue-400 via-purple-400 to-pink-400 bg-clip-text text-transparent">
               Mahesh Kulathunga
             </h1>
             <h2 className="text-xl md:text-2xl text-gray-300 mb-6">
