@@ -9,7 +9,7 @@ export const personalInfo = {
   aboutSupporting:
     "Supportive and enthusiastic team player passionate about learning new technological trends and working towards self-development while supporting the team to grow and achieve organizational success.",
   stats: {
-    yearsExperience: "5+",
+    yearsExperience: "6+",
     technologies: "15+",
   },
 };

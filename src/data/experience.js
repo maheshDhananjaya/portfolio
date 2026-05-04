@@ -9,7 +9,7 @@ export const experience = [
       "Next.js",
       "ReactJS",
       "Material Design",
-      "Docker",
+      "AWS",
       "Redux Toolkit",
     ],
     achievements: [

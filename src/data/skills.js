@@ -11,7 +11,7 @@ export const skills = {
   backend: ["Node.js", "MongoDB", "Oracle SQL", "PL/SQL"],
   tools: [
     "AWS",
-    "Docker",
+    "Jenkins",
     "Git",
     "Postman",
     "Visual Studio Code",
