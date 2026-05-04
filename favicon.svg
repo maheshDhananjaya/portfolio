@@ -15,7 +15,7 @@
   <circle cx="16" cy="16" r="15" fill="url(#bgGradient)" stroke="#1E293B" stroke-width="1"/>
   
   <!-- MK Text -->
-  <text x="16" y="22" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="url(#textGradient)">MK</text>
+  <text x="16" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" dominant-baseline="middle" fill="url(#textGradient)">MK</text>
   
   <!-- Subtle highlight -->
   <circle cx="16" cy="16" r="15" fill="none" stroke="rgba(255,255,255,0.2)" stroke-width="0.5"/>
