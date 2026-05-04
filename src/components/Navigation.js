@@ -30,6 +30,9 @@ const Navigation = ({ isScrolled }) => {
             <ScrollToSection sectionId="about">About</ScrollToSection>
             <ScrollToSection sectionId="experience">Experience</ScrollToSection>
             <ScrollToSection sectionId="skills">Skills</ScrollToSection>
+            <ScrollToSection sectionId="recent-work">
+              Recent Work
+            </ScrollToSection>
             <ScrollToSection sectionId="education">Education</ScrollToSection>
             <ScrollToSection sectionId="contact">Contact</ScrollToSection>
           </div>
